@@ -8,5 +8,5 @@ The task is to find the minimum number of moves that lead to all coins being fac
 For example: 
 The Final Result should look like this: 
        T T T
-       T T T
+       T T T 
        T T T
